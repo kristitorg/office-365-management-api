@@ -17,11 +17,11 @@ You can use the Office 365 Service Communications API V2 to access the following
 
 - **Get Services**: Get the list of subscribed services.
     
-- **Get Current Status**: Get a real-time view of current and ongoing service incidents and maintenance events
+- **Get Current Status**: Get a real-time view of current and ongoing service incidents
     
-- **Get Historical Status**: Get a historical view of service health, including service incidents and maintenance events.
+- **Get Historical Status**: Get a historical view of service incidents.
     
-- **Get Messages**: Find Incident, Planned Maintenance, and Message Center communications.
+- **Get Messages**: Find Incident and Message Center communications.
     
 Currently, the Office 365 Service Communications API contains data for the following services: Dynamics CRM, Dynamics Marketing, Exchange Online, Exchange Online Protection, Identity Service, Mobile Device Management, Office 365 Partner Admin Center, OneDrive for Business, Parature, OneDrive for Business, Power BI for Office 365, Rights Management Service, SharePoint Online, SHD Admin, Skype for Business, Social Engagement, and Yammer Enterprise.
 
